@@ -1,3 +1,5 @@
+# AeSix's build of EG.  It probably don't work.  This is not the repo you are looking for. Move along. Move along.
+
 # ExoticGarden
 
 ExoticGarden is a big addon to [Slimefun 4](https://github.com/TheBusyBiscuit/Slimefun4) which brings various new Plants, fruits, vegetables and food items to the game.
